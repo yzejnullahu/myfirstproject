@@ -1,4 +1,3 @@
-write your first program
-LL
-Ylberta
-Zejnullahu
+hello
+i am
+a girl
